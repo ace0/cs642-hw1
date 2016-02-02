@@ -20,7 +20,7 @@ The `targets/` directory contains the source code for the targets, along with a 
 Your exploits should assume that the compiled target programs are
 installed setuid-root in `/tmp` -- `/tmp/target1`, `/tmp/target2`, etc.
 
-To build the targets, change to the pp1/targets directory and type
+To build the targets, change to the `targets/` directory and type
 `make` on the command line; the Makefile will take care of building
 the targets.
 
@@ -38,7 +38,7 @@ make setuid
 Once you've run `make setuid` you can exit this shell, which will return you to your user
 shell.  Alternatively, you can keep a separate terminal or virtual
 console open with a root login, and run `make setuid` (in the
-`~user/pp1/targets directory`!) in that terminal or console.
+`~user/hw1/targets` directory!) in that terminal or console.
 
 Keep in mind that it'll be easier to debug the exploits if the targets
 aren't setuid.  (See below for more on debugging.)  If an exploit
@@ -124,8 +124,8 @@ hand in.
 
 (In other words, during grading the exploits may be run with a different
 environment and different working directory than one would get by
-logging in as user, changing directory to ~/pp1/sploits, and running
-./sploit1, etc.; your exploits should work even so.)
+logging in as user, changing directory to `~/hw1/sploits`, and running
+`./sploit1`, etc.; your exploits must work even so.)
 
 Your exploit programs should not take any command-line arguments.
 
@@ -146,10 +146,10 @@ You will have three deliverables.
 1. Finally, you must include file called ID which contains, on each line: 
    UW ID Lastname, Firstname. Two lines, one for each group member. An example:
 ```
-    $ cat ./ID
-    9064562678 Doe, Jane
-    9038454624 Dough, John
-    $
+$ cat ./ID
+9064562678 Doe, Jane
+9038454624 Dough, John
+$
 ```
 
 Package all these files into a single tarball using this command:
@@ -157,8 +157,9 @@ Package all these files into a single tarball using this command:
 tar -cf hw1.tar sploits/*
 ```
 
-Upload `hw1.tar` to the hw-1 folder on theDesire2Learn website for this course:
+Upload `hw1.tar` to the hw-1 folder on the Desire2Learn website for this course:
 https://uwmad.courses.wisconsin.edu/d2l/home/3199130
+
 Use Assignments > Dropbox to find the hw-1 submission folder.
 
 ## Grading 
