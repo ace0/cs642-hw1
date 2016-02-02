@@ -184,4 +184,5 @@ Be sure that each group member understands every exploit you turn in!
 - Gera and Riq, *Advances in Format String Exploiting,* Phrack 59 #0x04.
 - blexim, *Basic Integer Overflows,* Phrack 60 #0x10.
 
-
+## Acknowledgements
+This assignment is based in part on materials from Prof. Hovav Shacham at UC San Diego as well as Prof. Dan Boneh at Stanford. Thanks for their hard work.
