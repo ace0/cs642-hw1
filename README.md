@@ -35,7 +35,7 @@ make install
 su
 make setuid
 ```
-Once you've run `make setuid` you can exit this shell, which will return you to your user
+Once you've run `make setuid` use `exit` to return to your user
 shell.  Alternatively, you can keep a separate terminal or virtual
 console open with a root login, and run `make setuid` (in the
 `~user/hw1/targets` directory!) in that terminal or console.
