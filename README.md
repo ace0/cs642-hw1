@@ -129,6 +129,13 @@ logging in as user, changing directory to `~/hw1/sploits`, and running
 
 Your exploit programs should not take any command-line arguments.
 
+## Collaboration Policy
+
+You are encouraged to use the internet, the Piazza discussion for this class, and 
+classmates for ifnormation about tools, reference material, 
+VM setup, and gdb. Please don't discuss solution specifics with anyone beyond your 
+project partner.
+
 ## Deliverables
 
 You will have three deliverables.
