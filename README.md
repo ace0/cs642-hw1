@@ -164,7 +164,7 @@ Put all these files in the 'sploits/' directory and package them into a tarball 
 tar -cf UWID1_UWID2_hw1.tar sploits/*
 ```
 
-Upload `hw1.tar` to the hw-1 folder on the Desire2Learn website for this course:
+Upload `UWID1_UWID2_hw1.tar` to the hw-1 folder on the Desire2Learn website for this course:
 https://uwmad.courses.wisconsin.edu/d2l/home/3199130
 
 Use Assignments > Dropbox to find the hw-1 submission folder.
