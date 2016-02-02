@@ -159,9 +159,9 @@ $ cat ./ID
 $
 ```
 
-Package all these files into a single tarball using this command:
+Put all these files in the 'sploits/' directory and package them into a tarball with the following command (where UWID1/2 are your groups UWID #s):
 ```
-tar -cf hw1.tar sploits/*
+tar -cf UWID1_UWID2_hw1.tar sploits/*
 ```
 
 Upload `hw1.tar` to the hw-1 folder on the Desire2Learn website for this course:
