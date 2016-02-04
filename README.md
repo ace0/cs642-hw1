@@ -3,7 +3,7 @@
 This homework assignment tasks you with understanding vulnerabilities 
 in five target programs (four are required; one is extra credit). You must with work a partner.
 
-It is due **February 22, 2014** by midnight local time. 
+It is due **February 22, 2014** by 11:59pm local time. 
 
 ## The Environment 
 
