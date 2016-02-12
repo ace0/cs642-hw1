@@ -1,7 +1,7 @@
 # CS 642: Computer Security - Homework One
 
 This homework assignment tasks you with understanding vulnerabilities 
-in five target programs (four are required; one is extra credit). You must with work a partner.
+in five target programs (four are required; one is extra credit). You must work with a partner.
 
 It is due **February 22, 2016** by 11:59 PM local time. 
 
